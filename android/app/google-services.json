@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722086263167",
+    "project_id": "pranamtv-fd1e0",
+    "storage_bucket": "pranamtv-fd1e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722086263167:android:f170b8d3e8e6bd8b4e824a",
+        "android_client_info": {
+          "package_name": "com.example.pranamtv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1i9cn7e_rG9rGSNii9RTn2_TBp48wQys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
